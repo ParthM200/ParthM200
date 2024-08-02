@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Parth 👋</h1>
 <h3 align="center"> Freshman at Virginia Tech passionate about Computer Science & Machine Learning</h3>
-<img src="https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/v2/2DFZHRYB3NMI7CGVOMXCPEVJII.jpg?auth=56763f06dc70d391d7bfba0b33a72480b3fa8dce8372a725d52b426441e3245d&width=1600&height=900&smart=true" alt="Virginia Tech" width="300" height="250" align="center"/> </a> </p>
+<img src="https://wallpapers.com/images/high/red-virginia-tech-black-pf5k174st5pgwppd.webp" alt="Virginia Tech" width="300" height="250" align="center"/> </a> </p>
 
 
 -  I’m currently learning **Neural Networks and Building Machine Learning Algorithms**
