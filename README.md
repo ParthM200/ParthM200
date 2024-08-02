@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Parth 👋</h1>
 <h3 align="center"> Freshman at Virginia Tech passionate about Cars, Computer Science & Machine Learning</h3>
-<p align="center"> <img src="https://wallpapers.com/images/high/red-virginia-tech-black-pf5k174st5pgwppd.webp" alt="Virginia Tech" width="350" height="350" align="center"/> </a> <img src="https://images8.alphacoders.com/130/thumb-1920-1306475.jpg" alt="Aventador" width="350" height="300" align="center"/> </a> </p>
+<p align="center"> <img src="https://wallpapers.com/images/high/red-virginia-tech-black-pf5k174st5pgwppd.webp" alt="Virginia Tech" width="350" height="350" align="center"/> </a> <img src="https://www.supercars.net/blog/wp-content/uploads/2020/10/2020-Lamborghini-Aventador-SVJ-Roadster-Front-Three-Quarter-Wallpaper2-1.jpg" alt="Aventador" width="350" height="300" align="center"/> </a> </p>
 
 
 -  I’m currently learning **Neural Networks and Building Machine Learning Algorithms**
