@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://wallpapers.com/images/high/red-virginia-tech-black-pf5k174st5pgwppd.webp" alt="Virginia Tech" width="350" height="350" align="center"/> </a> <img src="https://www.pixel4k.com/wp-content/uploads/2018/11/lamborghini-aventador-svj-2019-4k_1541969448.jpg.webp" alt="Aventador" width="525" height="300" align="center"/> </a> </p>
 
 
--  I’m currently learning **Neural Networks and Building Machine Learning Algorithms**
+<p align = "center"> -  I’m currently learning **Neural Networks and Building Machine Learning Algorithms** </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
