@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hello, I'm Parth 👋</h1>
 <h3 align="center"> Freshman at Virginia Tech passionate about Cars, Computer Science & Machine Learning</h3>
-*Try reducing both images in half and see how it looks on main profile
 <p align="center"> <img src="https://wallpapers.com/images/high/red-virginia-tech-black-pf5k174st5pgwppd.webp" alt="Virginia Tech" width="175" height="175" align="center"/> </a> <img src="https://www.pixel4k.com/wp-content/uploads/2018/11/lamborghini-aventador-svj-2019-4k_1541969448.jpg.webp" alt="Aventador" width="263" height="150" align="center"/> </a> </p>
 
 
