@@ -1,14 +1,36 @@
-<h1 align="center">👋 Hello, I'm Parth 👋</h1>
-<h3 align="center"> Freshman at Virginia Tech passionate about Cars, Computer Science & Machine Learning</h3>
-<p align="center"> <img src="https://wallpapers.com/images/high/red-virginia-tech-black-pf5k174st5pgwppd.webp" alt="Virginia Tech" width="175" height="175" align="center"/> </a> <img src="https://www.pixel4k.com/wp-content/uploads/2018/11/lamborghini-aventador-svj-2019-4k_1541969448.jpg.webp" alt="Aventador" width="263" height="150" align="center"/> </a> </p>
+[README.md](https://github.com/user-attachments/files/28846328/README.md)
+# parth mehta
+**student at virginia tech · software engineering & cybersecurity**
 
+cs student building at the intersection of software and security. interested in systems that protect, scale, and actually matter. currently contributing to a mobile app shipping to 900+ people and studying for security+.
 
-<p> <h4 align = "center"> - 📝 I'm currently learning **Neural Networks and Building Machine Learning Algorithms** </h4></p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/parth-mehta-517b36262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth-mehta-517b36262/" height="30" width="40" /></a>
-</p>
+### currently
+- 🟢 building a react native convention app for yja — 900+ attendees, july 2026
+- 🟢 studying for comptia security+ (employer sponsored)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="JavaScript" width="40" height="40"/> </a> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://www.hashtechy.com/assets/icon/services/frontend-development/html/Fd-HTML-Hero.svg" alt="HTML" width="40" height="40"/> </a></p>
+---
+
+### projects
+
+**policycompass**
+ai-powered compliance analysis platform — evaluates policy documents against nist 800-171 and iso 27001, generates automated scores and exports findings as jira tasks. built at vthacks.
+`react` `firebase` `google gemini` `jira api` `pdf processing`
+
+**smartsplit**
+full-stack expense tracking platform with real-time sync, ai-generated financial insights, and group accountability features. built at umd bitcamp with 50+ users.
+`react` `firebase` `openai api` `together ai`
+
+**yja convention app** *(private)*
+react native mobile app for a national jain youth convention — schedule, sessions, and attendee features for 900+ users. shipping july 2026.
+`react native` `expo` `typescript` `supabase`
+
+---
+
+### stack
+`typescript` `react native` `react` `python` `java` `sql` `firebase` `expo` `git`
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-parthp--mehta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parthp-mehta/)
